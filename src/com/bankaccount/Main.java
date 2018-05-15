@@ -10,7 +10,7 @@ public class Main {
 //		leonamAccount.withdrawal(30.0);
 //		leonamAccount.withdrawal(14.34);
 //
-//		ArrayChalenge ac = new ArrayChalenge();
+//		ArrayChallenge ac = new ArrayChallenge();
 //		int[] myIntegers = ac.getIntegers(3);
 //		int[] sorted = ac.sortIntegers(myIntegers);
 //		ac.printArray(sorted);
@@ -23,5 +23,6 @@ public class Main {
 //		gc.printGroceryList();
 
 	}
+
 
 }

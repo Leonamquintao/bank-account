@@ -2,7 +2,7 @@ package com.bankaccount;
 
 import java.util.Scanner;
 
-public class ArrayChalenge {
+public class ArrayChallenge {
 	
 	private static Scanner scanner = new Scanner(System.in);
 	
